@@ -6,12 +6,12 @@ https://www.reddit.com/r/Humzaas_AniRepo
 
 # Table-of-Contents
 <ol>
-<li><a href="#Romance Anime">Romance Anime</a></li>
+<li>[Romance Anime](#romance-anime)</li>
 </ol>
 
 
 
-# Romance Anime
+# Romance-Anime
 
 <ol style="margin-top:0;margin-bottom:0;">
     <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
