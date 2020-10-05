@@ -6,7 +6,7 @@ https://www.reddit.com/r/Humzaas_AniRepo
 
 # Table-of-Contents
 <ol>
-<li>[Romance Anime](#romance-anime)</li>
+<li>[Romance Anime](#Romance-Anime)</li>
 </ol>
 
 
