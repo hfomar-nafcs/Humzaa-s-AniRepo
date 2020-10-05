@@ -5,424 +5,270 @@ https://discord.gg/gP6CFQP <br>
 https://www.reddit.com/r/Humzaas_AniRepo
 
 # Table-of-Contents
-<ol>
-    <li><span> [Back to Top](#Table-of-Contents) </span></li>
-</ol>
+
+1. [Romance Anime](#Romance-Anime)
+
 
 
 
 # Romance-Anime
 
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Boarding School Juliet</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Clannad (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Say I love you (Shoujo)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tsuki Ga Kirei (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Rascal Does not Dream of Bunnygirl Senpai</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">My Little Monster</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chuunibyou (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tsurezure Children</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Gamers</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Plastic Memories (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ore Monogatari</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3D Kanojo (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">My first Girlfriend is a gal (Ecchi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Itazura na kiss (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">My girlfriend is a shobitch</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Black Prince and Wolf girl</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lovely Complex (Has an ending) (Shoujo)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Golden Time (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kimi ga Nozomu Eien (Has an ending) (Nudity)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Adult Couple:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Wotakoi (Get together early)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ReLIFE (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Recovery of an MMO junkie</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Spice and Wolf (Adventure Fantasy)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Nana (Nudity)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Regular Romance (No Supernatural):</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kaguya-Sama love is war</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Toradora (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Engaged to the unidentified</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Oregairu</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Gekkan shojo nozaki-kun</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tada never falls in love (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">White Album 2 (Not fully adapted but has and ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Hyouka (less romance based) (Mystery)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Myself; Yourself (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sakurasou (Great anime ending eventhough the LN continues what comes after in the LN is pretty bad imo)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Amagami SS (Has multiple endings)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Koi to Uso (Very polarising)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mahoraba: Heartful days</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">And you thought there is never a girl online? (Ecchi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Scum&#39;s Wish (Ecchi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Domestic na kanojo (Nudity)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Kawai Complex</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chihayafuru</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sci-Fi:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chobits (has an ending) (Ecchi) (Sci-fi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Waiting in the Summer (Sci-Fi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Onegai Sensei (Sci-Fi) (Has an ending)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mild Supernatural Elements (Not action orientated):</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kokoro Connect</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kotoura-San</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Midori Days (Has an ending) (Nudity)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ef: A tale of Memories (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ef: A tale of Melodies (Has an ending)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">More Supernatural Based (Not action orientated)</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sankarea (Ecchi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tasogare Otome x Amnesia (Horror) (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Karin (Vampire) (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ino x Boku SS</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Natsuyuki Rendezvous (Has an ending)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Fantasy and/or Magic:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Ancient Magus&#39; Bride (Fantasy and Magic)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kaze no Stigma (Action) (Less romance based)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Nagi no Asu kara</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Snow white with the red hair</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kamisama Kiss (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Beyond the Boundary (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yona of the Dawn (Action)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Romeo x Juliet</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Action Orientated:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Darling in the Franxx (Mecha)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sword Art Online (Gets together early) (Harem) (Action) (Fantasy)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Rurouni Kenshin (Samurai)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Inuyasha (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Eureka Seven (Has an ending) (Mecha)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Devil&#39;s Line (Vampire) (Ecchi)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Standard Shoujo:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Maid-Sama</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kimi ni todoke</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ao Haru Ride</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kodocha</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Emotionally Powerful:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Anohana (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Your Lie in April (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Angel Beats (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Orange (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kanon (Has an ending)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Reverse Harem:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ouran Highschool Host Club (Shoujo)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Fruits Basket (Reboot Started this season) (Shoujo)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kiss him, not me (Shoujo)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Harem Tagged:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Quintessential Quintuplets</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Nisekoi</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ground control to psychoelectric girl</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Love Tyrant (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Oreshura</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DearS (Ecchi) (Sci-fi) (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yamada&#39;s first time (Ecchi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mashiro Symphony (Ecchi) (Has an ending)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The World God only knows (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Highschool of the Dead (Ecchi) (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Invaders of the rokujouma? (Supernatural)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 0pt 0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Borderline harem: (Maybe harem tagged but don&#39;t feel like a harem)</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mayo Chiki (Ecchi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yamada and the 7 witches</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Masamune-kun no revenge</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yamada and the 7 witches (Supernatural)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ai Yori Aoshi (Couple early)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Love, elections and chocolate (Has an ending)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Movies:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Your Name</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A Silent Voice (less romance based)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Garden of Words</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">5cm Per Second</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Hotarubi no mori e</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Girl who leapt through time</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">I want eat your pancreas (not 100% romance)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Short Episodes:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Akkun to Kanojo</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Momokuri</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Love is like a cocktail</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">I can&#39;t understand what my husband is saying</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yaoi (BL):&nbsp;</span><span style="font-size:15pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span><span style="font-size:15pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"></span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sekaiichi Hatsukoi (Couple early on)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Love Stage (Couple early on)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Hybrid Child (Has an ending) (Sci-Fi)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Junjou Romantica (Couple early on)</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:line-through;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yuri on ice</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:8.8pt 0pt 2.75pt 0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Yuri:</span></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:10pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sakura Trick</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Bloom into You</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Citrus</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Asagao to Kase-san.</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 17pt;">
-        <p dir="ltr" style="line-height:1.38;margin-right: 11pt;background-color:#ffffff;margin-top:0pt;margin-bottom:10pt;"><span style="font-size:10.5pt;font-family:Montserrat,sans-serif;color:#1a1a1b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Stawberry Panic (Has an ending)</span></p>
-    </li>
-</ol>
+1.  Boarding School Juliet
+
+2.  Clannad (Has an ending)
+
+3.  Say I love you (Shoujo)
+
+4.  Tsuki Ga Kirei (Has an ending)
+
+5.  Rascal Does not Dream of Bunnygirl Senpai
+
+6.  My Little Monster
+
+7.  Chuunibyou (Has an ending)
+
+8.  Tsurezure Children
+
+9.  Gamers
+
+10. Plastic Memories (Has an ending)
+
+11. Ore Monogatari
+
+12. 3D Kanojo (Has an ending)
+
+13. My first Girlfriend is a gal (Ecchi)
+
+14. Itazura na kiss (Has an ending)
+
+15. My girlfriend is a shobitch
+
+16. Black Prince and Wolf girl
+
+17. Lovely Complex (Has an ending) (Shoujo)
+
+18. Golden Time (Has an ending)
+
+19. Kimi ga Nozomu Eien (Has an ending) (Nudity)
+
+Adult Couple:
+
+1.  Wotakoi (Get together early)
+
+2.  ReLIFE (Has an ending)
+
+3.  The Recovery of an MMO junkie
+
+4.  Spice and Wolf (Adventure Fantasy)
+
+5.  Nana (Nudity)
+
+Regular Romance (No Supernatural):
+
+1.  Kaguya-Sama love is war
+
+2.  Toradora (Has an ending)
+
+3.  Engaged to the unidentified
+
+4.  Oregairu
+
+5.  Gekkan shojo nozaki-kun
+
+6.  Tada never falls in love (Has an ending)
+
+7.  White Album 2 (Not fully adapted but has and ending)
+
+8.  Hyouka (less romance based) (Mystery)
+
+9.  Myself; Yourself (Has an ending)
+
+10. Sakurasou (Great anime ending eventhough the LN continues what comes after in the LN is pretty bad imo)
+
+11. Amagami SS (Has multiple endings)
+
+12. Koi to Uso (Very polarising)
+
+13. Mahoraba: Heartful days
+
+14. And you thought there is never a girl online? (Ecchi)
+
+15. Scum's Wish (Ecchi)
+
+16. Domestic na kanojo (Nudity)
+
+17. The Kawai Complex
+
+18. Chihayafuru
+
+Sci-Fi:
+
+1.  Chobits (has an ending) (Ecchi) (Sci-fi)
+
+2.  Waiting in the Summer (Sci-Fi)
+
+3.  Onegai Sensei (Sci-Fi) (Has an ending)
+
+Mild Supernatural Elements (Not action orientated):
+
+1.  Kokoro Connect
+
+2.  Kotoura-San
+
+3.  Midori Days (Has an ending) (Nudity)
+
+4.  Ef: A tale of Memories (Has an ending)
+
+5.  Ef: A tale of Melodies (Has an ending)
+
+More Supernatural Based (Not action orientated)
+
+1.  Sankarea (Ecchi)
+
+2.  Tasogare Otome x Amnesia (Horror) (Supernatural)
+
+3.  Karin (Vampire) (Has an ending)
+
+4.  Ino x Boku SS
+
+5.  Natsuyuki Rendezvous (Has an ending)
+
+Fantasy and/or Magic:
+
+1.  The Ancient Magus' Bride (Fantasy and Magic)
+
+2.  Kaze no Stigma (Action) (Less romance based)
+
+3.  Nagi no Asu kara
+
+4.  Snow white with the red hair
+
+5.  Kamisama Kiss (Supernatural)
+
+6.  Beyond the Boundary (Supernatural)
+
+7.  Yona of the Dawn (Action)
+
+8.  Romeo x Juliet
+
+Action Orientated:
+
+1.  Darling in the Franxx (Mecha)
+
+2.  Sword Art Online (Gets together early) (Harem) (Action) (Fantasy)
+
+3.  Rurouni Kenshin (Samurai)
+
+4.  Inuyasha (Supernatural)
+
+5.  Eureka Seven (Has an ending) (Mecha)
+
+6.  Devil's Line (Vampire) (Ecchi)
+
+Standard Shoujo:
+
+1.  Maid-Sama
+
+2.  Kimi ni todoke
+
+3.  Ao Haru Ride
+
+4.  Kodocha
+
+Emotionally Powerful:
+
+1.  Anohana (Has an ending)
+
+2.  Your Lie in April (Has an ending)
+
+3.  Angel Beats (Has an ending)
+
+4.  Orange (Has an ending)
+
+5.  Kanon (Has an ending)
+
+Reverse Harem:
+
+1.  Ouran Highschool Host Club (Shoujo)
+
+2.  Fruits Basket (Reboot Started this season) (Shoujo)
+
+3.  Kiss him, not me (Shoujo)
+
+Harem Tagged:
+
+1.  Quintessential Quintuplets
+
+2.  Nisekoi
+
+3.  Ground control to psychoelectric girl
+
+4.  Love Tyrant (Supernatural)
+
+5.  Oreshura
+
+6.  DearS (Ecchi) (Sci-fi) (Has an ending)
+
+7.  Yamada's first time (Ecchi)
+
+8.  Mashiro Symphony (Ecchi) (Has an ending)
+
+9.  The World God only knows (Supernatural)
+
+10. Highschool of the Dead (Ecchi) (Supernatural)
+
+11. Invaders of the rokujouma? (Supernatural)
+
+Borderline harem: (Maybe harem tagged but don't feel like a harem)
+
+1.  Mayo Chiki (Ecchi)
+
+2.  Yamada and the 7 witches
+
+3.  Masamune-kun no revenge
+
+4.  Yamada and the 7 witches (Supernatural)
+
+5.  Ai Yori Aoshi (Couple early)
+
+6.  Love, elections and chocolate (Has an ending)
+
+Movies:
+
+1.  Your Name
+
+2.  A Silent Voice (less romance based)
+
+3.  The Garden of Words
+
+4.  5cm Per Second
+
+5.  Hotarubi no mori e
+
+6.  The Girl who leapt through time
+
+7.  I want eat your pancreas (not 100% romance)
+
+Short Episodes:
+
+1.  Akkun to Kanojo
+
+2.  Momokuri
+
+3.  Love is like a cocktail
+
+4.  I can't understand what my husband is saying
+
+Yuri:
+
+1.  Sakura Trick
+
+2.  Bloom into You
+
+3.  Citrus
+
+4.  Asagao to Kase-san.
+
+5.  Stawberry Panic (Has an ending)
 
 [Back to Top](#Table-of-Contents)
