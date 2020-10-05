@@ -1,6 +1,9 @@
 # Humzaa's AniRepo
 <b> Discord Link </b>
 https://discord.gg/gP6CFQP
+<b> Reddit Link </b>
+https://www.reddit.com/r/Humzaas_AniRepo
+
 
 
 
