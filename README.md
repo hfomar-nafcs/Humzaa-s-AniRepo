@@ -6,7 +6,7 @@ https://www.reddit.com/r/Humzaas_AniRepo
 
 # Table-of-Contents
 
-1. <a href="/anime/romance.md">Romance Anime</a>
+1. <a href="https://github.com/hfomar-nafcs/Humzaa-s-AniRepo/blob/main/Anime/romance.md">Romance Anime</a>
 
 
 
