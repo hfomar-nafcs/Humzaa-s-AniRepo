@@ -425,4 +425,4 @@ https://www.reddit.com/r/Humzaas_AniRepo
     </li>
 </ol>
 
-<li><a href="#Table Of Contents">Back To Top</a>
+[Back to Top](#Table of Contents)
