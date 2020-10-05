@@ -4,7 +4,7 @@ https://discord.gg/gP6CFQP <br>
 <b> Reddit Link </b>
 https://www.reddit.com/r/Humzaas_AniRepo
 
-# Table of Contents
+# Table-of-Contents
 <ol>
 <li><a href="#Romance Anime">Romance Anime</a></li>
 </ol>
@@ -425,4 +425,4 @@ https://www.reddit.com/r/Humzaas_AniRepo
     </li>
 </ol>
 
-`[Back to Top](#Table of Contents)`
+[Back to Top](#Table-of-Contents)
