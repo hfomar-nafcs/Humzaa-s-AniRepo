@@ -4,8 +4,10 @@ https://discord.gg/gP6CFQP <br>
 <b> Reddit Link </b>
 https://www.reddit.com/r/Humzaas_AniRepo
 
-<a href="#Romance Anime">Romance Anime</a>
-
+# Table of Contents
+<ol>
+<li><a href="#Romance Anime">Romance Anime</a></li>
+</ol>
 
 
 
